@@ -21,7 +21,7 @@
 				</div>
 				<div class="row">
 					<div class="nine columns">
-						<img src="http://www.placehold.it/500x300" alt="" />
+						<img src="http://dummyimage.com/750x400" alt="" />
 					</div>
 					<div class="three columns">
 						<div class="row">
