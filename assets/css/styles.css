@@ -1,0 +1,9 @@
+body {
+	background: url('../img/stripes.png');
+	color: #EEE;
+}
+
+#finish-button.button.round {
+	border-radius: 10px;
+	width: 100%;
+}
