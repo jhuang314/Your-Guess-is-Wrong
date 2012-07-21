@@ -1,4 +1,3 @@
-<pre>
 <?php
 
 require_once('config.php');
@@ -60,5 +59,8 @@ function get_random_listing() {
 		'price' => $listing->price,
 		'images' => $image_urls,
 	);
+
 	return json_encode($random_listing);
 }
+
+echo get_random_listing();

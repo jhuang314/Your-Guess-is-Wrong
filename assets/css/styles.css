@@ -3,7 +3,23 @@ body {
 	color: #EEE;
 }
 
-#finish-button.button.round {
+.prefix {
+	color: #444;
+}
+
+.big-thumb {
+	background: #FFF;
+	padding: 15px;
+}
+
+.thumb {
+	background: #FFF;
+	padding: 10px;
+}
+
+#done-button,
+#skip-button {
 	border-radius: 10px;
+	margin-bottom: 12px;
 	width: 100%;
 }
