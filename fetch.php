@@ -57,6 +57,7 @@ function get_random_listing() {
 	$random_listing = array(
 		'title' => $listing->title,
 		'price' => $listing->price,
+		'url' => $listing->url,
 		'images' => $image_urls,
 	);
 

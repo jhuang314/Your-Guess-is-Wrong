@@ -9,7 +9,27 @@ body {
 
 .big-thumb {
 	background: #FFF;
+	display: block;
+	margin: 0 auto;
 	padding: 15px;
+}
+
+.panel {
+	color: #444;
+	overflow: scroll;
+	max-height: 300px;
+}
+
+#images h2 {
+	text-align: center;
+}
+
+#scores ul {
+	list-style-type: none;
+}
+
+#price-row {
+	margin-top: 45px;
 }
 
 .thumb {
