@@ -64,7 +64,7 @@
 						</div>
 						<div class="row">
 							<div class="twelve columns">
-								<input type="submit" disabled="disabled" name="done_button" class="success button round large" id="done-button" value="Done" />
+								<input type="submit" disabled="disabled" name="done_button" class="success button round large" id="done-button" value="Guess" />
 							</div>
 						</div>
 						<div class="row">
